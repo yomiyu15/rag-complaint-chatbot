@@ -1,0 +1,26 @@
+# --- Task 1: EDA & preprocessing ---
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+
+# --- Task 2: chunking, embedding, vector store ---
+langchain>=0.2
+langchain-community>=0.2
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+chromadb>=0.5
+
+# --- Task 3: RAG pipeline / LLM ---
+transformers>=4.42
+torch>=2.2
+huggingface-hub>=0.24
+
+# --- Task 4: UI ---
+gradio>=4.0
+# streamlit>=1.36   # alternative to Gradio
+
+# --- utilities ---
+pyarrow>=16.0        # read complaint_embeddings.parquet
+tqdm>=4.66
+jupyter>=1.0
