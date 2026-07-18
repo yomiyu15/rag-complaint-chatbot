@@ -1,0 +1,142 @@
+[
+  {
+    "question": "Why are people unhappy with credit cards?",
+    "answer": "These credit card companies abuse their financial power and just cut credit limits without any justification. pure abuse of power and financial leverage",
+    "top_sources": [
+      {
+        "score": 0.611,
+        "product_category": "Credit Card",
+        "company": "CAPITAL ONE FINANCIAL CORPORATION",
+        "issue": "Problem with a purchase shown on your statement",
+        "excerpt": ". this hyper conservative approach not only leads to wrongful denials of legitimate claims but also creates a sense of frustration and helplessness for customers who expect their financial institution"
+      },
+      {
+        "score": 0.602,
+        "product_category": "Credit Card",
+        "company": "CITIBANK, N.A.",
+        "issue": "Trouble using your card",
+        "excerpt": ". these credit card companies abuse their financial power and just cut credit limits without any justification which then has immediate negative impacts to the customer without. pure abuse of power an"
+      }
+    ]
+  },
+  {
+    "question": "What are the most common issues customers report with money transfers?",
+    "answer": "The most common issues customers report with money transfers are:",
+    "top_sources": [
+      {
+        "score": 0.608,
+        "product_category": "Money Transfer",
+        "company": "Block, Inc.",
+        "issue": "Other transaction problem",
+        "excerpt": ". also, taking money off of my main bank account thats attached to my cashapp and sending it to the sender automatically. this lack of accountability and transparency is unacceptable and raises seriou"
+      },
+      {
+        "score": 0.586,
+        "product_category": "Savings Account",
+        "company": "CAPITAL ONE FINANCIAL CORPORATION",
+        "issue": "Problem caused by your funds being low",
+        "excerpt": ". although i have registered many complaints about how after years of paying excessive fines fees that were never advertised or disclosed when i opened the accounts, the customer service is poor and s"
+      }
+    ]
+  },
+  {
+    "question": "What problems do customers report with savings accounts?",
+    "answer": "Customer complaints about poor service.",
+    "top_sources": [
+      {
+        "score": 0.603,
+        "product_category": "Savings Account",
+        "company": "WELLS FARGO & COMPANY",
+        "issue": "Managing an account",
+        "excerpt": "me and my wife had a account checking and savings is was supposed to been the if you do ten transactions no extra charge we brought it up to them but they would always have some other excuse and they "
+      },
+      {
+        "score": 0.584,
+        "product_category": "Savings Account",
+        "company": "JPMORGAN CHASE & CO.",
+        "issue": "Managing an account",
+        "excerpt": "or frozen accounts, lack of information from banking company, problems making or receiving payments, banking errors, cashing a check, using atm or debit card problems, problems with funds being disper"
+      }
+    ]
+  },
+  {
+    "question": "What are the main complaints about personal loans?",
+    "answer": "- . they are trapping consumers in an endless debt trap from which there is no way out, and they are fully aware this. claiming these are high risk loans to consumers with poor credit is their excuse, and i hope the day finally comes when lenders of this type will be prosecuted and put out of business.",
+    "top_sources": [
+      {
+        "score": 0.618,
+        "product_category": "Personal Loan",
+        "company": "Upstart Holdings, Inc.",
+        "issue": "Problem with the payoff process at the end of the loan",
+        "excerpt": ". to be fair i never had issues with them during the course of the loan, it all occurred after i paid it off early."
+      },
+      {
+        "score": 0.593,
+        "product_category": "Personal Loan",
+        "company": "BANKERS HEALTHCARE GROUP LLC",
+        "issue": "Struggling to pay your loan",
+        "excerpt": ". im requesting investigation into this loans misclassification, the misrepresentations made, and bhgs pressure tactics."
+      }
+    ]
+  },
+  {
+    "question": "Are customers being charged unexpected fees on their credit cards?",
+    "answer": "Customer complaint: Credit card company charged cardholder's account twice for latest fees while available credit for the monthly fees were on the cardholder's account balance.",
+    "top_sources": [
+      {
+        "score": 0.756,
+        "product_category": "Credit Card",
+        "company": "Bread Financial Holdings, Inc.",
+        "issue": "Fees or interest",
+        "excerpt": ". i feel this is consumer credit card fraud. all charges should be transparent at the time you have to pay your bill so that a customer can pay off their balance and there are no surprises after you t"
+      },
+      {
+        "score": 0.714,
+        "product_category": "Credit Card",
+        "company": "CAPITAL ONE FINANCIAL CORPORATION",
+        "issue": "Fees or interest",
+        "excerpt": ". on i went to make a $300.00 payment and realized that capital one had charged me an interest charge in the amount of $160.00 . i contacted their customer service department to see why there was this"
+      }
+    ]
+  },
+  {
+    "question": "Do customers report unauthorized or fraudulent transactions?",
+    "answer": ". unauthorized transactions were detected on an account associated with our business. This was discovered during a quarterly audit.",
+    "top_sources": [
+      {
+        "score": 0.686,
+        "product_category": "Credit Card",
+        "company": "GOLDMAN SACHS BANK USA",
+        "issue": "Problem with a purchase shown on your statement",
+        "excerpt": ". however, before use, you must be approved. this process requires assessing all of your legal identifying information and background checks. as in the document i provided, it reflects that in of i re"
+      },
+      {
+        "score": 0.683,
+        "product_category": "Savings Account",
+        "company": "Chime Financial Inc",
+        "issue": "Managing an account",
+        "excerpt": ". it's clear there is nothing fraudulent here. it's clear that they don't care about resolving critical customer issues reasonably and quickly. i need to pay bills. this is criminal."
+      }
+    ]
+  },
+  {
+    "question": "What issues do customers face when trying to close an account or get a refund?",
+    "answer": "- . their customer care department is playing with loyal customers if they decide to close their account.",
+    "top_sources": [
+      {
+        "score": 0.676,
+        "product_category": "Credit Card",
+        "company": "HSBC NORTH AMERICA HOLDINGS INC.",
+        "issue": "Fees or interest",
+        "excerpt": ". their customer care department is playing with loyal customers if they decide to close their account. felt very disappointed and very bad customer service."
+      },
+      {
+        "score": 0.669,
+        "product_category": "Savings Account",
+        "company": "BANK OF THE WEST",
+        "issue": "Closing an account",
+        "excerpt": ". why are banks allowed to close customers accounts with no explanation or reason? sincerely, consumer financial protection bureau"
+      }
+    ]
+  }
+]

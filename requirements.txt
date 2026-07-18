@@ -21,6 +21,7 @@ gradio>=4.0
 # streamlit>=1.36   # alternative to Gradio
 
 # --- utilities ---
-pyarrow>=16.0        # read complaint_embeddings.parquet
+pyarrow>=16.0        # read complaint_embeddings.parquet / chunks.parquet sidecar
 tqdm>=4.66
 jupyter>=1.0
+markdown>=3.6        # report Markdown -> HTML (-> PDF)

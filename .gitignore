@@ -31,5 +31,7 @@ env/
 .DS_Store
 Thumbs.db
 
-# build artifact
+# build artifacts (HTML rendered on the way to PDF)
 reports/interim_report.html
+reports/final_report.html
+reports/figures/app_answer_view.html
