@@ -1,0 +1,40 @@
+{
+  "source_corpus_rows": 480576,
+  "sample_size_complaints": 12000,
+  "seed": 42,
+  "full_category_distribution": {
+    "Credit Card": 189333,
+    "Savings Account": 155202,
+    "Money Transfer": 98700,
+    "Personal Loan": 37341
+  },
+  "sample_category_distribution": {
+    "Credit Card": 4728,
+    "Savings Account": 3875,
+    "Money Transfer": 2465,
+    "Personal Loan": 932
+  },
+  "chunking": {
+    "splitter": "RecursiveCharacterTextSplitter",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "total_chunks": 34978,
+    "chunks_per_complaint": 2.91,
+    "chunk_char_len_mean": 368.2,
+    "chunk_char_len_max": 500
+  },
+  "embedding": {
+    "model": "sentence-transformers/all-MiniLM-L6-v2",
+    "dim": 384,
+    "normalized": true
+  },
+  "vector_store": {
+    "backend": "FAISS",
+    "index_type": "IndexFlatIP",
+    "path": "vector_store/",
+    "index_file": "index.faiss",
+    "sidecar_file": "chunks.parquet",
+    "distance": "cosine (inner product on normalised vectors)",
+    "count": 34978
+  }
+}

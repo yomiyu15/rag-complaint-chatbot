@@ -8,6 +8,12 @@ data/*.csv
 # Vector store artifacts
 vector_store/*
 !vector_store/.gitkeep
+# Task 2 deliverable: keep the persisted FAISS index + metadata sidecar (both <100MB)
+!vector_store/index.faiss
+!vector_store/chunks.parquet
+
+# Local virtualenv
+.venv/
 
 # Reports figures are kept, but ignore heavy logs
 reports/*.log
