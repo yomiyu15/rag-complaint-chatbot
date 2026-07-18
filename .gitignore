@@ -30,3 +30,6 @@ env/
 # OS / IDE
 .DS_Store
 Thumbs.db
+
+# build artifact
+reports/interim_report.html
